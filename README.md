@@ -6,4 +6,4 @@ This repository will only save the source files so to start the Electron project
 * Have an editor such as MS VSCode, npm and git installed
 On VSCode terminal or system terminal, type 'npx create-electron-app your-app's-name'. This will install the dependencies.
 
-* To run the project, you can type 'npm start' on the VSCode terminal.
+* To run the project, you can type 'npm start' and 'rs' to restart, on the VSCode terminal.
